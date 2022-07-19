@@ -1,2 +1,0 @@
-# keuangan-deploy
-Deploy
