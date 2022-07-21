@@ -1,1 +1,0 @@
-import{H as t}from"./index.56ca7468.js";const i=t({id:"storeAdmin",state:()=>({pagesActive:"dashboard"}),getters:{getPagesActive:e=>e.pagesActive},actions:{setPagesActive(e){this.pagesActive=e}}});export{i as u};
