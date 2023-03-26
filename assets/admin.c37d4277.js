@@ -1,0 +1,1 @@
+import{H as t}from"./index.2228fb18.js";const i=t({id:"storeAdmin",state:()=>({pagesActive:"dashboard"}),getters:{getPagesActive:e=>e.pagesActive},actions:{setPagesActive(e){this.pagesActive=e}}});export{i as u};
