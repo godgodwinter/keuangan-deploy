@@ -1,0 +1,1 @@
+import{h as r,r as n,i as s}from"./index-cee19467.js";const u=r("adminAuthStore",()=>{const e=n(localStorage.getItem("token")?localStorage.getItem("token"):""),a=s(()=>e.value),g=o=>{e.value=o},t=n(localStorage.getItem("isLogin")?localStorage.getItem("isLogin"):!1),i=s(()=>t.value);return{token:e,getToken:a,setToken:g,isLogin:t,getIsLogin:i,setIsLogin:o=>{t.value=o}}});export{u};
