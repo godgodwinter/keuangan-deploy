@@ -1,2 +1,0 @@
-import{h as d,r as o,i as s}from"./index-cee19467.js";import{m as p,l as k}from"./id-c944ffbf.js";p.updateLocale("id",k);const v=d("adminRekapStore",()=>{const a=o(null),u=s(()=>a.value),l=e=>{a.value=e};//! pertahun
-const t=o(null),r=s(()=>t.value),c=e=>{t.value=e},n=o(null),i=s(()=>n.value);return{dateNow:a,getdateNow:u,setdateNow:l,dateNowPertahun:t,getdateNowPertahun:r,setdateNowPertahun:c,rekapRingkasan:n,getRekapRingkasan:i,setRekapRingkasan:e=>{n.value=e}}});export{v as u};
